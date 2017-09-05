@@ -1,3 +1,5 @@
+http://andrewhfarmer.com/build-your-own-starter/
+
 My Project
 ---
 
@@ -8,4 +10,10 @@ Setup
 
 ```
 npm install
+```
+Compile
+---
+
+```
+npm run compile
 ```
